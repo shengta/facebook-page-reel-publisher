@@ -28,4 +28,3 @@ Move one identified, ready-to-post video from a prepared package to a verifiable
 - If publication remains uncertain, inspect upload notifications, the Page list, and earlier receipts before considering a retry. If login or identity verification blocks direct-link checking, report that limit separately from signed-in publication evidence.
 
 Report the direct Reel link only after readback. Otherwise report the precise stopping point and next actionable step without calling the post live.
-
